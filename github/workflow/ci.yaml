@@ -1,0 +1,6 @@
+name: ci-workflow
+on:
+ push:
+    branches:
+        -develop
+        
